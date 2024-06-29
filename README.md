@@ -1,3 +1,3 @@
 # Data-Analysis-MS-Power-BI-Project-Data-Analysis-Data-Professional-Survey-Breakdown
 
-This project showcases a survey of data professionals, represented through an interactive dashboard created in MS Power BI. The raw data undergoes initial transformation using Power Query, followed by the creation of visualizations.
+This project features a survey of data professionals presented in an interactive dashboard created using MS Power BI. The raw data is transformed using Power Query, and comprehensive visualizations are crafted. The dashboard is designed to enhance strategic decision-making and effectively illustrate complex data challenges, utilizing Power BI's dynamic features for intuitive and insightful data presentation.
